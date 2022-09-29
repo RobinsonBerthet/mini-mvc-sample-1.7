@@ -1,0 +1,39 @@
+.form
+{
+    text-align: center;
+    margin: auto;
+}
+.formConnex
+{
+    margin: auto;
+    text-align: center;
+    margin-top: 250px;
+    border: 3px solid grey;
+    width: 375px;
+    border-radius: 10px;
+}
+.login
+{
+    margin: 10px;
+    border: 2px inset blue;
+    border-radius: 10px;
+
+}
+.password
+{
+    margin: 20px;
+    border: 2px inset blue;
+    border-radius: 10px; 
+}
+.btnConnex
+{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px; 
+    margin: 15px;
+}
+.btnConnex:hover
+{
+    background-color: black;
+    color: white;
+}
